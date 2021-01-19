@@ -1,5 +1,5 @@
 #ajout des utilisateurs
-useradd
+useradd [-g -G -d]
 #modification des utilisateurs
 usermod
 #suppression des utilisateurs
